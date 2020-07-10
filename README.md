@@ -1,3 +1,4 @@
+###### This is a markdown website so this is not beautiful...
 # I'm AirKyzzZ, I am me.
 ***
 Hello everyone ! I'm [AirKyzzZ](https://github.com/AirKyzzZ) a little developer who just want to dream and live from his passion.
@@ -8,8 +9,8 @@ Check the price **RIGHT HERE**
 
 | Type of website        | Time before rendering       | Prices  |
 | ------------- |:-------------:| -----:|
-| Modified template website      | 5-6 days | 39,99€ |
-| Coded by hand      | 1-2 weeks      |  69,99€  |
+| Modified template website      | 5-6 days | 4,99€ |
+| Coded by hand      | 1-2 weeks      |  9,99€  |
 
 I also put a deadline for that you know when your website is finish
 
